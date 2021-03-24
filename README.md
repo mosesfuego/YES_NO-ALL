@@ -2,7 +2,9 @@
  
 README YES/NO CLASSIFICATION
 This folder contains 3 scripts and one folder. 
-MUST BE RUN IN GIVEN ORDER
+MUST BE RUN IN GIVEN ORDER ( May need to delete DS Store on Mac, run in cmd : 
+find . -name ".DS_Store" -delete )
+
 	0.	Clean.py 
 	⁃	Folder that cleans and slices up audio data files in the folders in wav. 
 	⁃	See source https://github.com/seth814/Audio-Classification/blob/master/clean.py
